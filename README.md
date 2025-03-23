@@ -24,8 +24,8 @@ This project scrapes a list of **remote jobs** from web3.career using **scrapy**
 ### 🔧 Installation  
 1️⃣ Clone the repository  
 ```bash
-git clone <repo_url>
-cd <repo_folder>
+git clone https://github.com/rakaaksara62/remote-job-scraper.git
+cd remote-job-scraper
 ```
 2️⃣ Create a virtual environment and activate it
 
